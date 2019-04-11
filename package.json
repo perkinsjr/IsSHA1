@@ -1,0 +1,28 @@
+{
+  "name": "issha1",
+  "version": "1.0.0",
+  "description": "Check to see if a string is SHA1",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perkinsjr/IsSHA1.git"
+  },
+  "keywords": [
+    "SHA1-check",
+    "isitSHA1",
+    "SHA1",
+    "REGEX-SHA1"
+  ],
+  "author": "James Perkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perkinsjr/IsSHA1/issues"
+  },
+  "homepage": "https://github.com/perkinsjr/IsSHA1#readme",
+  "devDependencies": {
+    "ava": "^1.4.1"
+  }
+}
